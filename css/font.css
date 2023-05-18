@@ -1,0 +1,52 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'Jost-Light';
+    src: url('../fonts/Jost-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Jost-Regular';
+    src: url('../fonts/Jost-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Jost-Medium';
+    src: url('../fonts/Jost-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Jost-Bold';
+    src: url('../fonts/Jost-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Jost-Black';
+    src: url('../fonts/Jost-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+
+
+
+@font-face {
+    font-family: 'SUIT-Regular';
+    src: url('../fonts/SUIT-Regular.woff2') format('woff2'),
+        url('../fonts/SUIT-Regular.ttf') format('truetype'),
+        url('../fonts/SUIT-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SUIT-Bold';
+    src: url('../fonts/SUIT-Bold.woff2') format('woff2'),
+        url('../fonts/SUIT-Bold.ttf') format('truetype'),
+        url('../fonts/SUIT-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
